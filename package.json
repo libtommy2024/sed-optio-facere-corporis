@@ -1,6 +1,6 @@
 {
   "name": "@libtommy2024/sed-optio-facere-corporis",
-  "version": "14.50.515",
+  "version": "14.50.516",
   "description": "",
   "main": "index.js",
   "author": "OraliePham",
@@ -263,5 +263,5 @@
   "bugs": {
     "url": "https://github.com/libtommy2024/sed-optio-facere-corporis/issues"
   },
-  "packageManager": "yarn@4.11.0"
+  "packageManager": "yarn@4.12.0"
 }
